@@ -57,13 +57,13 @@ def main():
         choice = menu()
 
         if choice == "1":
-            run_script_python("X/nm.py")
+            run_script_python("X/NM.py")
         elif choice == "2":
-            run_script_nodejs("X/ot.js")
+            run_script_nodejs("X/OT.js")
         elif choice == "3":
-            run_script_nodejs("X/pb.js")
+            run_script_nodejs("X/PB.js")
         elif choice == "4":
-            run_script_nodejs("X/ziv.js")
+            run_script_nodejs("X/ZIV.js")
         elif choice == "0":
             os.system('clear')
             print("Script Has Ended. \nThank For Using This Module \n- KMKZ DEV TEAM - \n")
