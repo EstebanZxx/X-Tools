@@ -60,9 +60,9 @@ def main():
             run_script_python("X/nm.py")
         elif choice == "2":
             run_script_nodejs("X/ot.js")
-        elif choice == "2":
+        elif choice == "3":
             run_script_nodejs("X/pb.js")
-        elif choice == "2":
+        elif choice == "4":
             run_script_nodejs("X/ziv.js")
         elif choice == "0":
             os.system('clear')
