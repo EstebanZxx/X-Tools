@@ -1,6 +1,6 @@
 # X-Tools
 
-### [+] Created By <a href="https://github.com/EstebanZxx">EstebanZxx</a>
+### [+] Created By <a href="https://github.com/milano">TALYANI</a>
 
 ### [+] Decription Info :
 ***This tool is a replacement for bot decrypt / if you want to try the offline version, this tool is open source and free to recode. The main code of this tool is the code from Legendecryptor / HACK-K Project, I'm just rebuilding / simplifying the function***
@@ -13,7 +13,7 @@
 
 ```pip install pycryptodome```
 
-```git clone https://github.com/EstebanZxx/X-Tools```
+```git clone https://github.com/TALYANI-Tools```
 
 ```cd X-Tools```
 
@@ -24,7 +24,7 @@
 
 ### Or, Use Single Command
 ```
-pkg install python -y && pkg install nodejs -y && pip install pycryptodome && git clone https://github.com/EstebanZxx/X-Tools && cd X-Tools && bash requirements.sh && python XTools.py
+pkg install python -y && pkg install nodejs -y && pip install pycryptodome && git clone https://github.com/TALYANI-Tools && cd X-Tools && bash requirements.sh && python XTools.py
 ```
 
 ### Features Script :
